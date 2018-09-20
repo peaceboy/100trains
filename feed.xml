@@ -3,7 +3,7 @@
     <title>100trains</title>
     <link href="https://100trains.com/feed.xml" rel="self" />
     <link href="https://100trains.com" />
-    <updated>2018-09-20T17:32:15+05:30</updated>
+    <updated>2018-09-20T21:48:52+05:30</updated>
     <author>
         <name>railfan</name>
     </author>
@@ -14,12 +14,12 @@
         <author>
             <name>railfan</name>
         </author>
-        <link href="https://100trains.com/Collectible-Trains.html"/>
-        <id>https://100trains.com/Collectible-Trains.html</id>
+        <link href="https://100trains.com/collectible-trains.html"/>
+        <id>https://100trains.com/collectible-trains.html</id>
             <category term="trains"/>
             <category term="railway"/>
 
-        <updated>2018-09-19T23:27:56+05:30</updated>
+        <updated>2018-09-20T21:48:32+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://100trains.com/media/posts/3/3.jpg" alt="tilti trains" />
